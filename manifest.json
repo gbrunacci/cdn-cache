@@ -1,0 +1,17 @@
+{
+   "background": {
+      "scripts": [ "cdn-cache.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html",
+      "name": "CDNCache"
+   },
+   "description": "Cache CDN files locally.",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA+2SJ5oohRX+9io7zpMOJY8B34sEVT4PAZv1r7M2zfIO8blhBxQ43tQyrQR/LlYITtkV51bPKhAQvRitR2ckEU/iBAdMqlKANdzJXvHv2Q/4j7HiRu6x5wJEdBXS9eD34VMYOTuk409zBjhw6z+HRIgzeMkQfvSA6PHYg5bGURqrI+7LlYvbk04pX1FWnl29ntkzQdA94ngiyEpnbAgvty6PPKEen2l/+FnSirseo1/p5lr0Xiex/xzAbtp7qc6ahEQZXV4nXO/ao81yFEM190Y/7DDld1LmkVEsCeDPpFvWkIxk3eVqIVA0luzoB/rWYUo3R54TwCR7R9/d6AB064wIDAQAB",
+   "manifest_version": 2,
+   "name": "CDNCache",
+   "permissions": [ "webRequest", "webRequestBlocking", "storage", "*://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

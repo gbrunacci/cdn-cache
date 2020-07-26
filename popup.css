@@ -1,0 +1,9 @@
+body {
+    width: 200px;
+}
+
+#domains {
+    font-size: 12px;
+    width: 100%;
+    overflow: auto;
+}
