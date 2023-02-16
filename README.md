@@ -8,4 +8,7 @@ https://chrome.google.com/webstore/detail/cdncache/cjjmbggfmolglgbakinoejofkgflb
 
 # Archived
 
-This repo is archived, feel free to use, fork and extend it as needed.
+This repo dates back to 2014 and has not been modified since then.
+
+Feel free to use, fork and extend it as needed.
+
